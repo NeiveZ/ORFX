@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # ORFX - Offensive Recon Framework
+
 # Author: NeiveZ | github.com/NeiveZ/ORFX
 
 set -euo pipefail
